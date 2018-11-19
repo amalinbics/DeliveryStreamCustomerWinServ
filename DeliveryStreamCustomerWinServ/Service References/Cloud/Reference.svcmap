@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="41104bc9-7fa4-4c63-a71a-423bf71a8501" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/CloudWCF/Cloud.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Cloud4.xsd" MetadataType="Schema" ID="2d1de20e-578e-44d8-9dbb-b662648c520b" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?xsd=xsd0" />
+    <MetadataFile FileName="Cloud2.disco" MetadataType="Disco" ID="21cbdb80-a036-490a-b6cb-1643447a9bc2" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?disco" />
+    <MetadataFile FileName="Cloud5.xsd" MetadataType="Schema" ID="46cd56bb-4be4-4daf-90a8-18bc6dddd1fd" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?xsd=xsd3" />
+    <MetadataFile FileName="Cloud6.xsd" MetadataType="Schema" ID="95232926-b2a2-472e-9894-13b17ccfd6d8" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?xsd=xsd1" />
+    <MetadataFile FileName="CloudService2.wsdl" MetadataType="Wsdl" ID="3ee54153-54f4-439d-b06f-512008e55d27" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?wsdl" />
+    <MetadataFile FileName="Cloud8.xsd" MetadataType="Schema" ID="bdbe8652-841a-4eaa-8a4a-99d797a61435" SourceId="1" SourceUrl="http://localhost/CloudWCF/Cloud.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
